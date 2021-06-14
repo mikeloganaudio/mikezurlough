@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	734550643	Ambience_Town_Park			\Default Work Unit\Ambience_Town_Park	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	185266432	Woodland_Birds_NoWind	D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\Woodland_Birds_NoWind_SomeWater_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Woodland_Birds_NoWind		31701372
+	978660191	City_Ambience	D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\City Wind, Leaves, Distant Traffic  _Stereo (LR) _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\City_Ambience		26332676
+

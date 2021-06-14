@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1790705280	Ambience_Woodland			\Default Work Unit\Ambience_Woodland	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1025017080	Ambience_Woodland	D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\Woodland_Birds_NoWind_SomeWater_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience_Woodland		31701372
+
