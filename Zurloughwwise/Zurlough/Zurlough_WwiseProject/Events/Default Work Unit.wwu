@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{E9692346-F3CD-4E3F-9B4E-54098ACA4C7D}" SchemaVersion="97">
+<WwiseDocument Type="WorkUnit" ID="{E9692346-F3CD-4E3F-9B4E-54098ACA4C7D}" SchemaVersion="103">
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{E9692346-F3CD-4E3F-9B4E-54098ACA4C7D}" PersistMode="Standalone">
 			<ChildrenList>
@@ -16,6 +16,17 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="City_Ambience" ID="{35CEED37-A86B-4EF5-8BCC-703B7108D011}" WorkUnitID="{CB1C34B6-9520-4957-A557-9FD18934C4C6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Footstep" ID="{527C1D57-EF31-4F4B-9BF7-DF53ED57C1E6}">
+					<ChildrenList>
+						<Action Name="" ID="{EF38E340-FABF-418F-8A63-D3DFA85C17AD}" ShortID="154423222">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps_Grass" ID="{1B316759-B3CB-40A3-A387-ABF71E04BC19}" WorkUnitID="{CB1C34B6-9520-4957-A557-9FD18934C4C6}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

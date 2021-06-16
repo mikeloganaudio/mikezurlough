@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E9692346-F3CD-4E3F-9B4E-54098ACA4C7D}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{E9692346-F3CD-4E3F-9B4E-54098ACA4C7D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Ambience_Town_Park" ID="{D28A2B25-47F4-4E26-A035-EEA61023D972}">
+					<ChildrenList>
+						<Action Name="" ID="{DE4C6100-7D80-4F73-981B-75D474B7B583}" ShortID="444932910">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Woodland_Birds_NoWind" ID="{22973CCF-00A7-4678-8F3E-4D9851C7731D}" WorkUnitID="{CB1C34B6-9520-4957-A557-9FD18934C4C6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{C874585A-C579-481D-BEDB-66CD9EE5645B}" ShortID="746964261">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="City_Ambience" ID="{35CEED37-A86B-4EF5-8BCC-703B7108D011}" WorkUnitID="{CB1C34B6-9520-4957-A557-9FD18934C4C6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
