@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1295956C-4C1C-40F5-92F5-50F8BDEFE926}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{1295956C-4C1C-40F5-92F5-50F8BDEFE926}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{4A09F5E8-D44F-4257-8940-646DD9BA99BE}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Ambience_Town_Park" ID="{D28A2B25-47F4-4E26-A035-EEA61023D972}" WorkUnitID="{E9692346-F3CD-4E3F-9B4E-54098ACA4C7D}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

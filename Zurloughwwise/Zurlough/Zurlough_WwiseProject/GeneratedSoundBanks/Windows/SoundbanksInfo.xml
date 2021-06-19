@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Language="SFX" Hash="4204904655">
+		<SoundBank Id="1355168291" Language="SFX" Hash="3690994985">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3161908922" Language="SFX" Hash="3230997816">
+		<SoundBank Id="3161908922" Language="SFX" Hash="2141773756">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>

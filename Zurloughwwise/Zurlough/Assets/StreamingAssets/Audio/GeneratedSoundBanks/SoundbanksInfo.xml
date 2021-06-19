@@ -1,31 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Assets\StreamingAssets\Audio\GeneratedSoundBanks\</SoundBanksRoot>
+		<ProjectRoot>D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Assets\StreamingAssets\Audio\GeneratedSoundBanks\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Language="SFX" Hash="4204904655">
+		<SoundBank Id="1355168291" Language="SFX" Hash="3690994985">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3161908922" Language="SFX" Hash="2902314847">
+		<SoundBank Id="3161908922" Language="SFX" Hash="3809772199">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1790705280" Name="Ambience_Woodland" ObjectPath="\Events\Default Work Unit\Ambience_Woodland">
+				<Event Id="734550643" Name="Ambience_Town_Park" ObjectPath="\Events\Default Work Unit\Ambience_Town_Park">
 					<IncludedMemoryFiles>
 						<File Id="185266432" Language="SFX">
 							<ShortName>Woodland_Birds_NoWind_SomeWater.wav</ShortName>
 							<Path>SFX\Woodland_Birds_NoWind_SomeWater_D79FB2B7.wem</Path>
+						</File>
+						<File Id="978660191" Language="SFX">
+							<ShortName>City Wind, Leaves, Distant Traffic  _Stereo (LR) .wav</ShortName>
+							<Path>SFX\City Wind, Leaves, Distant Traffic  _Stereo (LR) _10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1866025847" Name="Footstep" ObjectPath="\Events\Default Work Unit\Footstep">
+					<IncludedMemoryFiles>
+						<File Id="19133578" Language="SFX">
+							<ShortName>ESE - Foot Step - Grass 16.wav</ShortName>
+							<Path>SFX\ESE - Foot Step - Grass 16_10C4C929.wem</Path>
+						</File>
+						<File Id="148144528" Language="SFX">
+							<ShortName>ESE - Foot Step - Grass 2.wav</ShortName>
+							<Path>SFX\ESE - Foot Step - Grass 2_10C4C929.wem</Path>
+						</File>
+						<File Id="163859434" Language="SFX">
+							<ShortName>ESE - Foot Step - Grass 3.wav</ShortName>
+							<Path>SFX\ESE - Foot Step - Grass 3_10C4C929.wem</Path>
+						</File>
+						<File Id="312518574" Language="SFX">
+							<ShortName>ESE - Foot Step - Grass 8.wav</ShortName>
+							<Path>SFX\ESE - Foot Step - Grass 8_10C4C929.wem</Path>
+						</File>
+						<File Id="490475747" Language="SFX">
+							<ShortName>ESE - Foot Step - Grass 13.wav</ShortName>
+							<Path>SFX\ESE - Foot Step - Grass 13_10C4C929.wem</Path>
+						</File>
+						<File Id="571823361" Language="SFX">
+							<ShortName>ESE - Foot Step - Grass 9.wav</ShortName>
+							<Path>SFX\ESE - Foot Step - Grass 9_10C4C929.wem</Path>
+						</File>
+						<File Id="785477964" Language="SFX">
+							<ShortName>ESE - Foot Step - Grass 1.wav</ShortName>
+							<Path>SFX\ESE - Foot Step - Grass 1_10C4C929.wem</Path>
+						</File>
+						<File Id="864178675" Language="SFX">
+							<ShortName>ESE - Foot Step - Grass 4.wav</ShortName>
+							<Path>SFX\ESE - Foot Step - Grass 4_10C4C929.wem</Path>
+						</File>
+						<File Id="1051516199" Language="SFX">
+							<ShortName>ESE - Foot Step - Grass 10.wav</ShortName>
+							<Path>SFX\ESE - Foot Step - Grass 10_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>

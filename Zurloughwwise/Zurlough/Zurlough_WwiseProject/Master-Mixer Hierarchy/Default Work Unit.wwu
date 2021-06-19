@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{B5CE0C90-35F3-4298-AB85-F22BAC0DC0C2}" SchemaVersion="97">
+<WwiseDocument Type="WorkUnit" ID="{B5CE0C90-35F3-4298-AB85-F22BAC0DC0C2}" SchemaVersion="103">
 	<Busses>
 		<WorkUnit Name="Default Work Unit" ID="{B5CE0C90-35F3-4298-AB85-F22BAC0DC0C2}" PersistMode="Standalone">
 			<ChildrenList>
@@ -9,6 +9,7 @@
 							<ObjectRef Name="System" ID="{F7493587-850C-4EC4-A320-D68137C8F468}" WorkUnitID="{7F2B0350-F15B-4D60-8139-EF1FD72FC0CD}"/>
 						</Reference>
 					</ReferenceList>
+					<ObjectLists/>
 				</Bus>
 			</ChildrenList>
 		</WorkUnit>

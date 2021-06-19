@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CB1C34B6-9520-4957-A557-9FD18934C4C6}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{CB1C34B6-9520-4957-A557-9FD18934C4C6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Woodland_Birds_NoWind" ID="{22973CCF-00A7-4678-8F3E-4D9851C7731D}" ShortID="767013467">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-42</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4882FC10-EE90-4534-BBF8-7CED2B93C02A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B5CE0C90-35F3-4298-AB85-F22BAC0DC0C2}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Woodland_Birds_NoWind_SomeWater" ID="{D061FDFC-4E23-493E-A92C-D32FB436B261}">
+							<Language>SFX</Language>
+							<AudioFile>Woodland_Birds_NoWind_SomeWater.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="185266432"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Woodland_Birds_NoWind_SomeWater" ID="{D061FDFC-4E23-493E-A92C-D32FB436B261}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="City_Ambience" ID="{35CEED37-A86B-4EF5-8BCC-703B7108D011}" ShortID="220226400">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-29</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4882FC10-EE90-4534-BBF8-7CED2B93C02A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B5CE0C90-35F3-4298-AB85-F22BAC0DC0C2}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="City Wind, Leaves, Distant Traffic  _Stereo (LR)" ID="{095BE9FB-5AC2-4981-852B-0E235854B907}">
+							<Language>SFX</Language>
+							<AudioFile>City Wind, Leaves, Distant Traffic  _Stereo (LR) .wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="978660191"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="City Wind, Leaves, Distant Traffic  _Stereo (LR)" ID="{095BE9FB-5AC2-4981-852B-0E235854B907}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
