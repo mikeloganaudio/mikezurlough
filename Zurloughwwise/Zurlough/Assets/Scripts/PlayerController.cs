@@ -10,16 +10,16 @@ public class PlayerController : MonoBehaviour
     public float horizontalInput;
 
     private UnityEngine.AI.NavMeshAgent agent;
-    private Animator anim;
+    //private Animator anim;
 
     void Awake()
     {
-        anim = GetComponent<Animator>();
+        //anim = GetComponent<Animator>();
         agent = GetComponent<UnityEngine.AI.NavMeshAgent>();
     }
 
     // Update is called once per frame
-    void Update()
+    /*void Update()
     {
         horizontalInput = Input.GetAxis("Horizontal");
         verticalInput = Input.GetAxis("Vertical");
@@ -29,5 +29,5 @@ public class PlayerController : MonoBehaviour
 
         anim.SetFloat("Speed", agent.velocity.magnitude);
 
-    }
+    }*/
 }

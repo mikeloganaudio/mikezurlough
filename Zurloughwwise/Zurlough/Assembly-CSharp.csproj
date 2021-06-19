@@ -152,6 +152,7 @@
      <Compile Include="Assets\Wwise\Deployment\API\Generated\Common\AkMonitoringCallbackInfo.cs" />
      <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\MoveBehaviour.cs" />
      <Compile Include="Assets\Wwise\Deployment\API\Handwritten\Common\Arrays\AkPositionArray.cs" />
+     <Compile Include="Assets\Scripts\NPCController.cs" />
      <Compile Include="Assets\Shared\PlayerTracker.cs" />
      <Compile Include="Assets\Wwise\Deployment\API\Generated\Common\AkSegmentInfo.cs" />
      <Compile Include="Assets\Wwise\Deployment\API\Handwritten\Common\WwiseTypes\AkWwiseAcousticTexture.cs" />
@@ -499,7 +500,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -847,37 +848,47 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/Zurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/UNI/dt_and_git/cygsdk/home/ashaw/mikezurlough/Zurloughwwise/Zurlough/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="NavMeshComponentsEditor.csproj">
+      <Project>{501280A0-23E8-6F40-4BAE-D58B1AB77792}</Project>
+      <Name>NavMeshComponentsEditor</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+    <ProjectReference Include="NavMeshComponents.csproj">
+      <Project>{0E5EFF7F-1638-AF9C-2A97-3E2702BCC5C7}</Project>
+      <Name>NavMeshComponents</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
