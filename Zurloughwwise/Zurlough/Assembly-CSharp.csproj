@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\NPCController.cs" />
     <Compile Include="Assets\Shared\PlayerTracker.cs" />
     <Compile Include="Assets\Scripts\PlayerLook.cs" />
+    <Compile Include="Assets\Ww_MaterialSwitch.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\LevelScripts\ControlsTutorial.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\AimBehaviourBasic.cs" />
     <Compile Include="Assets\PostWwiseEvent.cs" />
@@ -70,14 +71,21 @@
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\FlyBehaviour.cs" />
     <Compile Include="Assets\3rdPerson+Fly\Scripts\LevelScripts\ThirdPersonOrbitCamBasic.cs" />
-    <Compile Include="Assets\Ww_MaterialSwitch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\PluginInfo.xml" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\English(US)\SoundbanksInfo.xml" />
     <None Include="Assets\Wwise\Version.txt" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\Mac\SoundbanksInfo.xml" />
     <None Include="Assets\AnimeGirls\BaseCharacter\BaseCharacter\Sourcefiles\Shader\DoubleSided.shader" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\Mac\Main.txt" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\English(US)\Init.txt" />
     <None Include="Assets\Shipping Container Environment\Readme.txt" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\English(US)\Main.txt" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\English(US)\PluginInfo.xml" />
     <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\Main.txt" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\Mac\PluginInfo.xml" />
+    <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\Mac\Init.txt" />
     <None Include="Assets\AnimeGirls\BaseCharacter\BaseCharacter\Sourcefiles\Shader\UnlitColor.shader" />
     <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\Init.txt" />
     <None Include="Assets\StreamingAssets\desc.txt" />

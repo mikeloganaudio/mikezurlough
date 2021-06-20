@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3161908922" Language="SFX" Hash="3914528704">
+		<SoundBank Id="3161908922" Language="SFX" Hash="3088748591">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
@@ -127,6 +127,30 @@
 							</Media>
 						</SwitchContainer>
 					</SwitchContainers>
+				</Event>
+				<Event Id="1721775719" Name="Zombie" ObjectPath="\Events\Default Work Unit\Zombie">
+					<IncludedMemoryFiles>
+						<File Id="42114932" Language="SFX">
+							<ShortName>Zombies\Zombie 3.wav</ShortName>
+							<Path>SFX\Zombies\Zombie 3_10C4C929.wem</Path>
+						</File>
+						<File Id="266802996" Language="SFX">
+							<ShortName>Zombies\Zombie 4.wav</ShortName>
+							<Path>SFX\Zombies\Zombie 4_10C4C929.wem</Path>
+						</File>
+						<File Id="525726354" Language="SFX">
+							<ShortName>Zombies\Zombie 1.wav</ShortName>
+							<Path>SFX\Zombies\Zombie 1_10C4C929.wem</Path>
+						</File>
+						<File Id="607884704" Language="SFX">
+							<ShortName>Zombies\Zombie 2.wav</ShortName>
+							<Path>SFX\Zombies\Zombie 2_10C4C929.wem</Path>
+						</File>
+						<File Id="1060878736" Language="SFX">
+							<ShortName>Zombies\Zombie 5.wav</ShortName>
+							<Path>SFX\Zombies\Zombie 5_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
 				</Event>
 			</IncludedEvents>
 			<SwitchGroups>

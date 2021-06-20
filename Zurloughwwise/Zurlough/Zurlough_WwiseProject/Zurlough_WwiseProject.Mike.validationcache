@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="103">
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Zurlough_WwiseProject.wproj" DateLow="1623856890" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Zurlough_WwiseProject.Mike.wsettings" DateLow="1624192303" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Zurlough_WwiseProject.Mike.wsettings" DateLow="1624194006" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1624188700" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\States\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1623862258" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1624204010" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Queries\Factory Queries.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1623856890" DateHigh="0"/>
@@ -18,14 +18,14 @@
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Events\Default Work Unit.wwu" DateLow="1624192302" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Effects\Factory Effects.wwu" DateLow="1623856890" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Events\Default Work Unit.wwu" DateLow="1624204010" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Effects\Factory Effects.wwu" DateLow="1624194005" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1623856890" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1624192302" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1624204174" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1624204174" DateHigh="0"/>
 </ValidationCache>

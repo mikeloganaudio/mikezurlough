@@ -32,6 +32,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Zombie" ID="{793A3D12-1DD6-4B00-B30A-C6807E5CB299}">
+					<ChildrenList>
+						<Action Name="" ID="{12469C32-F829-4934-B98C-06B258560169}" ShortID="214682300">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Zombies" ID="{ABBB327F-41BB-459A-AD10-ED98BFDFFFC3}" WorkUnitID="{CB1C34B6-9520-4957-A557-9FD18934C4C6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

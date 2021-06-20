@@ -1,6 +1,44 @@
 Event	ID	Name			Wwise Object Path	Notes
-	1790705280	Ambience_Woodland			\Default Work Unit\Ambience_Woodland	
+	734550643	Ambience_Town_Park			\Default Work Unit\Ambience_Town_Park	
+	1721775719	Zombie			\Default Work Unit\Zombie	
+	1866025847	Footstep			\Default Work Unit\Footstep	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	2473969246	Metal	Material			
+	4248645337	Grass	Material			
+
+Modulator Time	ID	Name			Wwise Object Path	Notes
+	240718594	Modulator Time (Custom)				
+	552110856	Modulator Time (Custom)				
+
+Effect plug-ins	ID	Name	Type				Notes
+	2995775460	Room_Small	Wwise RoomVerb			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	1025017080	Ambience_Woodland	D:\CAVC Work\FINAL YEAR WORK\Creative Collaborative Project\Zurlough-master\Zurlough-master\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\Woodland_Birds_NoWind_SomeWater_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience_Woodland		31701372
+	1022864	ESE - Foot Step - Wood - Fast 19	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Wood - Fast 19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Metal\ESE - Foot Step - Wood - Fast 19		47132
+	19133578	Footstep Grass 9	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Grass 16_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Grass\Footstep Grass 9		83138
+	42114932	Zombie 3	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\Zombies\Zombie 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zombies\Zombie 3		242604
+	148144528	Footstep Grass 2	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Grass 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Grass\Footstep Grass 2		79520
+	163859434	Footstep Grass 3	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Grass 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Grass\Footstep Grass 3		73350
+	185266432	Woodland_Birds_NoWind	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\Woodland_Birds_NoWind_SomeWater_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Woodland_Birds_NoWind		31701372
+	266802996	Zombie 4	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\Zombies\Zombie 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zombies\Zombie 4		193620
+	267903921	ESE - Foot Step - Wood - Fast 22	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Wood - Fast 22_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Metal\ESE - Foot Step - Wood - Fast 22		51856
+	312518574	Footstep Grass 5	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Grass 8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Grass\Footstep Grass 5		60022
+	342785739	ESE - Foot Step - Wood - Fast 18	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Wood - Fast 18_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Metal\ESE - Foot Step - Wood - Fast 18		31392
+	429045363	ESE - Foot Step - Wood - Fast 23	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Wood - Fast 23_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Metal\ESE - Foot Step - Wood - Fast 23		50892
+	490475747	Footstep Grass 8	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Grass 13_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Grass\Footstep Grass 8		73218
+	525726354	Zombie 1	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\Zombies\Zombie 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zombies\Zombie 1		215652
+	527940550	ESE - Foot Step - Wood - Fast 24	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Wood - Fast 24_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Metal\ESE - Foot Step - Wood - Fast 24		46580
+	569767913	ESE - Foot Step - Wood - Fast 20	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Wood - Fast 20_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Metal\ESE - Foot Step - Wood - Fast 20		42088
+	571823361	Footstep Grass 6	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Grass 9_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Grass\Footstep Grass 6		74846
+	607884704	Zombie 2	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\Zombies\Zombie 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zombies\Zombie 2		301412
+	785477964	Footstep Grass 1	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Grass 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Grass\Footstep Grass 1		72228
+	835271825	ESE - Foot Step - Wood - Fast 21	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Wood - Fast 21_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Metal\ESE - Foot Step - Wood - Fast 21		42902
+	864178675	Footstep Grass 4	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Grass 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Grass\Footstep Grass 4		64098
+	978660191	City_Ambience	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\City Wind, Leaves, Distant Traffic  _Stereo (LR) _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\City_Ambience		26332676
+	1051516199	Footstep Grass 7	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\ESE - Foot Step - Grass 10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_Grass\Footstep Grass 7		72082
+	1060878736	Zombie 5	D:\Documents\GitHub\Zurlough\Zurloughwwise\Zurlough\Zurlough_WwiseProject\.cache\Windows\SFX\Zombies\Zombie 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zombies\Zombie 5		431240
 

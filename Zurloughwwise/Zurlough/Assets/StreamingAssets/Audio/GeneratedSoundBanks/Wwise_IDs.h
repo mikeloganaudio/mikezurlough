@@ -15,6 +15,7 @@ namespace AK
     {
         static const AkUniqueID AMBIENCE_TOWN_PARK = 734550643U;
         static const AkUniqueID FOOTSTEP = 1866025847U;
+        static const AkUniqueID ZOMBIE = 1721775719U;
     } // namespace EVENTS
 
     namespace SWITCHES
