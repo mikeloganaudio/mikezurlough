@@ -15,6 +15,7 @@ public class NPCController : MonoBehaviour
     private Transform player;
 
     private NavMeshAgent agent;
+    private Animator anim;
 
     private void Awake()
     {
@@ -32,6 +33,8 @@ public class NPCController : MonoBehaviour
         {
             InvokeRepeating("Patrol", 0, patrolTime);
         }
+
+        anim = GetComponent<Animator>();
     }
 
     void Patrol()
@@ -49,5 +52,10 @@ public class NPCController : MonoBehaviour
             agent.destination = player.position;
             agent.speed = agentSpeed;
         }
+    }
+
+    void Update()
+    {
+        anim.SetFloat("Speed", agent.velocity.magnitude);
     }
 }
