@@ -26,7 +26,7 @@
 						<Action Name="" ID="{EF38E340-FABF-418F-8A63-D3DFA85C17AD}" ShortID="154423222">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Footsteps_Grass" ID="{1B316759-B3CB-40A3-A387-ABF71E04BC19}" WorkUnitID="{CB1C34B6-9520-4957-A557-9FD18934C4C6}"/>
+									<ObjectRef Name="Footsteps" ID="{A446E0F4-42AD-4FF0-AD53-57377B125D53}" WorkUnitID="{CB1C34B6-9520-4957-A557-9FD18934C4C6}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

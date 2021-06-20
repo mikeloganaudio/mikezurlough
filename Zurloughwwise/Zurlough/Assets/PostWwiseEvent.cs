@@ -4,21 +4,12 @@ using UnityEngine;
 
 public class PostWwiseEvent : MonoBehaviour
 {
-    public AK.Wwise.Event MyEvent;
 
-    public PostWwiseEvent(AK.Wwise.Event myEvent)
-    {
-        MyEvent = myEvent;
-    }
+    public AK.Wwise.Event MyEvent;
 
     public void PlayFootstepSound()
     {
-        MyEvent.Post(gameObject); 
+        MyEvent.Post(gameObject);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

@@ -14,7 +14,23 @@ namespace AK
     namespace EVENTS
     {
         static const AkUniqueID AMBIENCE_TOWN_PARK = 734550643U;
+        static const AkUniqueID FOOTSTEP = 1866025847U;
     } // namespace EVENTS
+
+    namespace SWITCHES
+    {
+        namespace MATERIAL
+        {
+            static const AkUniqueID GROUP = 3865314626U;
+
+            namespace SWITCH
+            {
+                static const AkUniqueID GRASS = 4248645337U;
+                static const AkUniqueID METAL = 2473969246U;
+            } // namespace SWITCH
+        } // namespace MATERIAL
+
+    } // namespace SWITCHES
 
     namespace BANKS
     {

@@ -5,7 +5,7 @@ using UnityEngine;
 public class FollowPlayer : MonoBehaviour
 {
     public GameObject player;
-    public GameObject camera;
+    public GameObject m_camera;
     private Vector3 offset = new Vector3(6, 3, -6);
     public float rotateSpeed = 5.0f;
     
